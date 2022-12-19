@@ -5,6 +5,3 @@
 
 N este nr de elemente din array, iar Max este elementul maxim din array.
 Programul primeste de la tastarura N si Max si returneaza timpul de rulare al fiecarei sortari.
-
-# Feedback
-Tema mi s a parut plictisitoare. 
