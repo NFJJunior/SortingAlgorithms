@@ -1,7 +1,13 @@
-# SD-Proiect1
+# SortingAlgorithms
  
- Am implementat 4 sortari: MergeSort, TimSort, RadixSort, ShellSort.
- Am rulat 8 teste cu N >= 1e8 si Max >= 1e9
+ I implements 4 sorting algorithms: MergeSort, TimSort, RadixSort, ShellSort.
+ I recorded the sort times in the tests.txt file.
 
-N este nr de elemente din array, iar Max este elementul maxim din array.
-Programul primeste de la tastarura N si Max si returneaza timpul de rulare al fiecarei sortari.
+ The maximum number of elements in an array is 1e8 and the maximum value of an element is 1e9.
+
+ N is the number of elements of the array, Max is the maximum value of an element from the array.
+ The program receives from keyboard N and Max and returns the sort times of every sorting algorithm.
+
+ 
+
+

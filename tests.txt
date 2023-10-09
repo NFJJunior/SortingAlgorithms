@@ -1,4 +1,7 @@
-Timpul de sortare al testelor
+Sorting Times
+
+N - number of elements in the array
+Max - the maximum value of the elements in the array
 
 N = 100000, Max = 100000
 MergeSort: 0.0120
